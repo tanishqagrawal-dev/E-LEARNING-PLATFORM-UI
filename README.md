@@ -64,7 +64,7 @@ This project is built as a **front-end-focused prototype**, demonstrating **mode
 - **Frontend Languages:** HTML5, CSS3, JavaScript (Vanilla JS)  
 - **Libraries:** jsPDF (for generating PDF certificates)  
 - **Storage:** Browser Local Storage (to save user data, progress, and enrolled courses)  
-- **Hosting:** GitHub Pages ([Live Demo](https://tanishq-124.github.io/E-LEARNING-PLATFORM-UI/))  
+- **Hosting:** GitHub Pages ([Live Demo](https://tanishqagrawal-dev.github.io/E-LEARNING-PLATFORM-UI/))  
 
 ---
 
@@ -101,7 +101,7 @@ This project is built as a **front-end-focused prototype**, demonstrating **mode
 
 ## Author
 Developed by **[Tanishq Agrawal](https://www.linkedin.com/in/tanishq-agrawal-91a505335)**  
-**Live Project:** [EduLearn Platform](https://tanishq-124.github.io/E-LEARNING-PLATFORM-UI/)
+**Live Project:** [EduLearn Platform](https://tanishqagrawal-dev.github.io/E-LEARNING-PLATFORM-UI/)
 
 
 ![Image](https://github.com/user-attachments/assets/b8a5f7ae-99cc-47ec-8bc4-33e80ab496cd)
