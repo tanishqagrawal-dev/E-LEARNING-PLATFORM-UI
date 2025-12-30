@@ -15,7 +15,7 @@
 # EduLearn – E-Learning Platform
 
 **Developer:** [Tanishq Agrawal](https://www.linkedin.com/in/tanishq-agrawal-91a505335)  
-**Live Project:** [Click here to view](https://tanishq-124.github.io/E-LEARNING-PLATFORM-UI/)
+**Live Project:** [Click here to view](https://tanishqagrawal-dev.github.io/E-LEARNING-PLATFORM-UI/)
 
 ---
 
